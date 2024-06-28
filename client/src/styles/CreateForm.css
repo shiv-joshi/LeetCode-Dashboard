@@ -1,0 +1,21 @@
+.create {
+  text-align: start;
+  display: flex;
+  grid-auto-flow: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-items: center;
+  padding: 5px;
+  border-radius: 5px;
+  align-self: center;
+  overflow: auto;
+  gap: 5px;
+}
+
+.create-btn {
+  background-color: #50c590;
+  opacity: 1;
+}

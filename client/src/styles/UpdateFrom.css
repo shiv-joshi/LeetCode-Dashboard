@@ -1,0 +1,9 @@
+div {
+    display: grid;
+}
+
+.update-input {
+    margin-left: 10px;
+    background-color: aqua;
+    border-width: 15px;
+}
